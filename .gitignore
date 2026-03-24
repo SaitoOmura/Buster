@@ -416,6 +416,3 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-git add Buster/
-git commit -m "Add Buster project"
-git push
